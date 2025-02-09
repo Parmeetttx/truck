@@ -9732,7 +9732,7 @@ textarea {
 ===============================*/
 .work__area-two {
   /* background: var(--tg-theme-primary); */
-  padding: 3rem 0;
+  padding: 2rem 0 3rem;
   position: relative;
   z-index: 1;
 }
@@ -11984,7 +11984,7 @@ blockquote > p {
 }
 
 .project__area-three{
-  padding: 4rem  0 5rem;
+  padding: 4rem  0 3rem;
   /* clip-path: polygon(49% 100%, 100% 93%, 100% 0, 0 0, 0 93%); */
   background: #dddd;
   clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 85% 95%, 50% 100%, 15% 95%, 0 100%, 0% 35%, 0 0);
